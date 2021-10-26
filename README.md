@@ -1,1 +1,1 @@
-# my-third-repo
+A harmadik github repóm.
